@@ -3,7 +3,7 @@
 ## Part1
 This is REDAME.
 - item1
-- item2
+- item3
 
 ## Part 2
 1. sunday
