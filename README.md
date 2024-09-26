@@ -2,8 +2,8 @@
 
 ## Part1
 This is REDAME.
-- item1
-- item2
+- itemA
+- itemB
 
 ## Part 2
 1. sunday
